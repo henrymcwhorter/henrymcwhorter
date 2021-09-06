@@ -1,6 +1,6 @@
 👋 Hi, I’m Henry McWhorter a freelance web developer and marketing guru.\
 👀 I’m interested in Web Development, Marketing, and Data Analysis.\
-🌱 I’m currently learning OIDC\
+🌱 I’m currently learning A variety of things. Right now I am mainly focused on microservices\
 💞️ I’m looking to collaborate on something unique. Not sure what exactly but hopefully something interesting.\
 📫 How to reach me 
 
